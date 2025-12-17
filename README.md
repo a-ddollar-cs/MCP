@@ -1,5 +1,3 @@
-# Example MCP Server with FastMCP (Python)
-
 ## Overview
 
 This repository provides an educational example of a Model Context Protocol (MCP) server implemented in Python using the [FastMCP](https://github.com/modelcontextprotocol/fastmcp) library. It demonstrates how to expose tools, resources, and prompts to AI clients, enabling seamless integration with applications like IDEs, chatbots, and agent frameworks.
